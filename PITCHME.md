@@ -2,7 +2,7 @@
 
 ### Filip Štaffa
 
-***
+---
 
 ## Typescript
 
@@ -12,7 +12,7 @@
 * 7th Most popular language on Stack Overflow (2017)
 * 11th Most popular language on Github by pull requests (Octoverse 2017)
 
----
++++
 
 ## Typescript
 
@@ -20,7 +20,7 @@
 * Superset JavaScriptu
 * Rychlejší adopce nových featur
 
-***
+---
 
 ## Typy
 
@@ -35,7 +35,7 @@
 	}
 ```
 
----
++++
 
 ## Typy vs Netypy
 
@@ -55,14 +55,14 @@
 	should(complex(1, 2)).eql(4) // pouze testy, flow
 ```
 
----
++++
 
 ## Lepší tooling
 
 * Statické typy
 * Jazyková služba se základními refaktoringy
 
----
++++
 
 ## Strukturální typování
 
@@ -78,7 +78,7 @@
 
 	{ name: 'Filip' }
 ```
----
++++
 
 ## Union typy
 ```typescript
@@ -91,7 +91,7 @@
 	}
 ```
 
----
++++
 
 ## Union typy
 ```typescript
@@ -103,7 +103,7 @@
 		}
 	}
 ```
----
++++
 
 ## keyof operátor
 
@@ -126,14 +126,14 @@
 	setProperty(x, "foo", "string"); // Error!, string expected number
 ```
 
----
++++
 
 ### Type erasure
 
 * Žádné námi definované typy v runtime
 * Žádné námi definované typy v runtime
 
----
++++
 
 ## Typings
 * .d.ts soubory
@@ -141,6 +141,6 @@
 * De facto typový standard pro javascript
 * Lze použít i JSDoc anotace
 
-***
+---
 
 ## Otázky
